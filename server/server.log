@@ -1,0 +1,4 @@
+Proxy LaLiga Fantasy en http://localhost:3001 · sesión: no
+[auth error] busy Ya hay una ventana de login abierta.
+[auth error] cancelled Ventana de login cerrada antes de terminar.
+^CProxy LaLiga Fantasy en http://localhost:3001 · sesión: sí

@@ -1,0 +1,7 @@
+node_modules
+.token
+.env
+dist
+.session.json
+
+server/.browser-profile/
